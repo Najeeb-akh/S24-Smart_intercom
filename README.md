@@ -121,6 +121,7 @@ https://github.com/user-attachments/assets/098d624c-f1ff-4162-a625-86a816eff95d
 * We didnt find any software solutions or references for using the cam globally (rather than just typing http and local ip address), all the solutions suggested connected to an app or server for forwarding the video stream via ports and other router related setting, which wasn't relevant for our project.
 * Some hardware solutions suggested modifynig the board to work with external antenna, and some also suggested connecting the GND pin to aluminum foil, (https://www.reddit.com/r/esp32/comments/r9g5jc/fixing_ymmv_the_poor_frame_rate_on_the_esp32cam/), but we didnt want to risk damaging the board.
 * We ran into some problems with the storage in the ESP and scheduling the tasks, in the final_code.ino inside the esp-code folder you will find the code which eventually worked for us!
+* In the video we show an early build of the app hence why the live camera feature is not working.
 * The flutter app design matches the renders, except the temporary password page design got changed and we added an invalidate button for each passsword. Everything else is straight forward, firebase get and set are used to unlock the door, and to maintain the temporary passwords.
 * In our app we update a field named time, this serves the time epoch for the esp, this served as a clock instead of Technion's NTP server which was down at the time we wanted to present our project.
 
