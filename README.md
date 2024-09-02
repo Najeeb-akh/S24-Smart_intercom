@@ -75,19 +75,19 @@ Full info of the hardware can be found here : https://docs.google.com/spreadshee
 
 
 <p align="center" width="100%">
-    <img width="30%" src="https://github.com/user-attachments/assets/b476d8bb-5e93-4e1f-b033-183e5bca9c8c"> 
+    <img width="20%" src="https://github.com/user-attachments/assets/b476d8bb-5e93-4e1f-b033-183e5bca9c8c"> 
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img width="30%" src="https://github.com/user-attachments/assets/4d5f1e10-bca5-4ea6-a8fe-b2a9a4a51782">
+    <img width="20%" src="https://github.com/user-attachments/assets/4d5f1e10-bca5-4ea6-a8fe-b2a9a4a51782">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img width="30%" src="https://github.com/user-attachments/assets/6d13956f-6488-44c4-9491-67477b874d60">
+    <img width="20%" src="https://github.com/user-attachments/assets/6d13956f-6488-44c4-9491-67477b874d60">
 
 </p>
 
 
 <p align="center" width="100%">
-    <img width="30%" src="https://github.com/user-attachments/assets/bb7443dd-0edb-4cff-9437-c0aabc4b6d9d">
+    <img width="20%" src="https://github.com/user-attachments/assets/bb7443dd-0edb-4cff-9437-c0aabc4b6d9d">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img width="30%" src="https://github.com/user-attachments/assets/de626a0a-9c35-4b41-96e3-76e5d1946185">
+    <img width="20%" src="https://github.com/user-attachments/assets/de626a0a-9c35-4b41-96e3-76e5d1946185">
 </p>
 
 
