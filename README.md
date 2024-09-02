@@ -11,9 +11,9 @@ For the delivery guy, you can monitor his movement to ensure he's at your front 
 
 ✨ Features:
 
-📲 Log in using your credentials in the app.
-🎥 Be greeted with a live camera view and a real-time unlock door button.
-🔑 Access the 'Manage Password' button, leading to our temporary password management page.
+* 📲 Log in using your credentials in the app.
+* 🎥 Be greeted with a live camera view and a real-time unlock door button.
+* 🔑 Access the 'Manage Password' button, leading to our temporary password management page.
 
 ### Keep your home secure and your events stress-free with our smart solutions! 🚀
 
