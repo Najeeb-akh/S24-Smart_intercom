@@ -69,6 +69,15 @@ Full info of the hardware can be found here : https://docs.google.com/spreadshee
 
 
 
+<p align="center" width="100%">
+  
+
+</p>
+
+
+
+
+
 #### App Renders
 
 
