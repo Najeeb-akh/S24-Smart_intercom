@@ -51,16 +51,20 @@ This folder contains the Flutter application code for the mobile interface. It i
 3. Run `flutter pub get` to install dependencies.
 4. Run `flutter run` to start the application.
 
-```markdown
+**Align left:**
+<p align="left" width="100%">
+    <img width="33%" src="https://i.stack.imgur.com/RJj4x.png"> 
+</p>
 
-```![IOT poster- smart doorbell](https://github.com/user-attachments/assets/3af62e76-dea2-4699-a9d2-709f09cd4704)
+**Align center:**
+<p align="center" width="100%">
+    <img width="33%" src="https://i.stack.imgur.com/RJj4x.png"> 
+</p>
 
-
-```markdown
-![Bird's-eye view of hardware](https://github.com/user-attachments/assets/45133843-9c47-439b-9370-621ee368ae39)
-```
-
-
+**Align right:**
+<p align="right" width="100%">
+    <img width="33%" src="https://i.stack.imgur.com/RJj4x.png"> 
+</p>
 
 
 
