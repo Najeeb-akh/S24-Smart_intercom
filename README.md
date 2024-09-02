@@ -1,5 +1,15 @@
 # S24-Smart_intercom
 
+## The Pitch:
+
+Let's say that you are throwing a big party 🎉 at your house on friday night at 17:00. Last time you threw a party this big you had to keep the door open the whole time to allow guests to come in without asking for your personal pincode, and all of a sudden your dog Checo ran away, you and some of your friends left the house to look for cheko and found him when the party was over..
+Or maybe you got a message from a delivery guy saying that your package is supposed to get dropped of the 1 PM, while being at work..
+
+Now you can easily add temporary password for your guests which will be valid just for friday night without disclosing any of your private passwords, and if for some reason the party was canceled you can invalidate the password which you shared previously with your guessts,with just one click. And for the delivery guy, you can now monitor his movement to insure that he is at your front door, remotely unlock the door for him at 1PM, and watch on live stream your package being dropped of carefully inside your house.
+
+You can access these features just by loggin in using credentials in the app, you will then be greated with live camera view alongside realtime unlock door button. and a 'Manage Paasword' button, which leads to our temporary password management page.
+
+
 ## Project Overview
 The S24-Smart_intercom project is designed to create a smart intercom system using ESP32-CAM and a Flutter mobile application. This project is divided into three main components:
 
