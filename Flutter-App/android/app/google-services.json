@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "122466884268",
+    "firebase_url": "https://smartdoorbell-7e38f-default-rtdb.firebaseio.com",
+    "project_id": "smartdoorbell-7e38f",
+    "storage_bucket": "smartdoorbell-7e38f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122466884268:android:f85b0a193fa5278d2b1d09",
+        "android_client_info": {
+          "package_name": "com.example.smartdoorbell"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHANIi3AEgVl8ir3Cs5ePn6qJLWD9LY1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122466884268:android:d07191a9273f15322b1d09",
+        "android_client_info": {
+          "package_name": "com.iot.technion.dr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHANIi3AEgVl8ir3Cs5ePn6qJLWD9LY1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122466884268:android:db6200065337cf8c2b1d09",
+        "android_client_info": {
+          "package_name": "com.iot.technion.smartdoorbell"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHANIi3AEgVl8ir3Cs5ePn6qJLWD9LY1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122466884268:android:d072c66d3460cc812b1d09",
+        "android_client_info": {
+          "package_name": "com.mycompany.smartdoorbell"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHANIi3AEgVl8ir3Cs5ePn6qJLWD9LY1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
