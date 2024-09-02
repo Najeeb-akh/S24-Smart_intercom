@@ -1,13 +1,21 @@
 # S24-Smart_intercom
 
 ## The Pitch:
+🎉 Imagine this: You're throwing a big party at your house on Friday night at 17:00. Last time you hosted such a big event, you had to keep the door open the whole time to let guests in without sharing your personal pincode. 🏠 But then, disaster struck—your dog, Checo, ran away! 🐶 You and some friends left the party to search for him, and by the time you found Checo, the party was over... 😔
 
-Let's say that you are throwing a big party 🎉 at your house on friday night at 17:00. Last time you threw a party this big you had to keep the door open the whole time to allow guests to come in without asking for your personal pincode, and all of a sudden your dog Checo ran away, you and some of your friends left the house to look for cheko and found him when the party was over..
-Or maybe you got a message from a delivery guy saying that your package is supposed to get dropped of the 1 PM, while being at work..
+Or maybe you were at work and got a message from the delivery guy 📦 saying your package was going to be dropped off at 1 PM, but you couldn't be there to receive it...
 
-Now you can easily add temporary password for your guests which will be valid just for friday night without disclosing any of your private passwords, and if for some reason the party was canceled you can invalidate the password which you shared previously with your guessts,with just one click. And for the delivery guy, you can now monitor his movement to insure that he is at your front door, remotely unlock the door for him at 1PM, and watch on live stream your package being dropped of carefully inside your house.
+Now, with our solution, you can easily add temporary passwords for your guests, valid just for Friday night 🎟️, without disclosing any of your private passwords. And if the party gets canceled for any reason, you can invalidate the shared password with just one click! 🚫
 
-You can access these features just by loggin in using credentials in the app, you will then be greated with live camera view alongside realtime unlock door button. and a 'Manage Paasword' button, which leads to our temporary password management page.
+For the delivery guy, you can monitor his movement to ensure he's at your front door, remotely unlock the door for him at 1 PM 🚪🔓, and watch via livestream 📹 as your package is carefully dropped off inside your house.
+
+✨ Features:
+
+📲 Log in using your credentials in the app.
+🎥 Be greeted with a live camera view and a real-time unlock door button.
+🔑 Access the 'Manage Password' button, leading to our temporary password management page.
+
+###Keep your home secure and your events stress-free with our smart solutions! 🚀
 
 
 ## Project Overview
