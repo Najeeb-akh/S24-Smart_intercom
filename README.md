@@ -67,9 +67,11 @@ Full info of the hardware can be found here : https://docs.google.com/spreadshee
 #### Physical Prototype
 
 
-<video width="50%" controls>
-        <source src="https://github.com/user-attachments/assets/02fd5f08-eff0-473d-b599-7e461c599811" type="video/mp4">
-</video>
+
+
+
+https://github.com/user-attachments/assets/098d624c-f1ff-4162-a625-86a816eff95d
+
 
 
 
