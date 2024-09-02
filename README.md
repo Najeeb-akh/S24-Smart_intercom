@@ -68,7 +68,7 @@ Full info of the hardware can be found here : https://docs.google.com/spreadshee
 
 
 <video width="50%" controls>
-        <source src="https://example.com/video.mp4" type="video/mp4">
+        <source src="https://github.com/user-attachments/assets/02fd5f08-eff0-473d-b599-7e461c599811" type="video/mp4">
 </video>
 
 
