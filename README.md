@@ -51,6 +51,25 @@ This folder contains the Flutter application code for the mobile interface. It i
 3. Run `flutter pub get` to install dependencies.
 4. Run `flutter run` to start the application.
 
+```markdown
+![Alt Text](image_url)
+```
+
+Replace `Alt Text` with a descriptive text for the image and `image_url` with the URL of the image you want to insert.
+
+For example:
+
+```markdown
+![Bird's-eye view of hardware](https://github.com/user-attachments/assets/45133843-9c47-439b-9370-621ee368ae39)
+```
+
+This will insert an image with the alt text "Bird's-eye view of hardware" in the middle of the README page.
+
+Remember to replace `https://github.com/user-attachments/assets/45133843-9c47-439b-9370-621ee368ae39` with the actual URL of your image.
+
+
+
+
 #### Hardware
 
 ![hardware bird's-eye view](https://github.com/user-attachments/assets/45133843-9c47-439b-9370-621ee368ae39)
