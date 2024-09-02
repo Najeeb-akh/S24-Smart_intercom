@@ -67,6 +67,10 @@ Full info of the hardware can be found here : https://docs.google.com/spreadshee
 #### Physical Prototype
 
 
+<video width="50%" controls>
+        <source src="https://example.com/video.mp4" type="video/mp4">
+</video>
+
 
 
 #### App Renders
