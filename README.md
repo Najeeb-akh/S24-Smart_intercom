@@ -51,21 +51,10 @@ This folder contains the Flutter application code for the mobile interface. It i
 3. Run `flutter pub get` to install dependencies.
 4. Run `flutter run` to start the application.
 
-**Align left:**
-<p align="left" width="100%">
-    <img width="33%" src="https://i.stack.imgur.com/RJj4x.png"> 
-</p>
 
-**Align center:**
 <p align="center" width="100%">
-    <img width="33%" src="https://i.stack.imgur.com/RJj4x.png"> 
+    <img width="33%" src="https://github.com/user-attachments/assets/fa1f627c-d43d-4c13-b4be-d6534c7db633"> 
 </p>
-
-**Align right:**
-<p align="right" width="100%">
-    <img width="33%" src="https://i.stack.imgur.com/RJj4x.png"> 
-</p>
-
 
 
 #### Hardware
