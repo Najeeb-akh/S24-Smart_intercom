@@ -34,11 +34,11 @@ int lock_value = 0;
 // #define API_KEY "AIzaSyAHANIi3AEgVl8ir3Cs5ePn6qJLWD9LY1Y"
 
 // /* 3. Define the RTDB URL */
-#define DATABASE_URL "https://console.firebase.google.com/u/0/project/smartdoorbell-7e38f/database/smartdoorbell-7e38f-default-rtdb/data/~2F" //<databaseName>.firebaseio.com or <databaseName>.<region>.firebasedatabase.app
+#define DATABASE_URL "https://console.firebase.google.com/u/0/project/smartdoorbell------/------------/data/~2F" //<databaseName>.firebaseio.com or <databaseName>.<region>.firebasedatabase.app
 //https://console.firebase.google.com/u/0/project/smartdoorbell-7e38f/database/smartdoorbell-7e38f-default-rtdb/data/~2F
-#define REFERENCE_URL "https://smartdoorbell-7e38f-default-rtdb.firebaseio.com/"
+#define REFERENCE_URL "https://smartdoorbell---------rtdb.firebaseio.com/"
 //https://console.firebase.google.com/u/0/project/smartdoorbell-7e38f/database/smartdoorbell-7e38f-default-rtdb/data/~2F"
-#define FIREBASE_AUTH "AIzaSyAHANIi3AEgVl8ir3Cs5ePn6qJLWD9LY1Y"
+#define FIREBASE_AUTH "AIz-----------------------"
 
 
 /*******     here is the firebase and wifi connection *******/
