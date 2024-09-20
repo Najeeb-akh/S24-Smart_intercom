@@ -259,8 +259,8 @@
 #define _PASSWORD "arduino123"
 
 // Firebase configuration
-#define REFERENCE_URL "https://smartdoorbell-7e38f-default-rtdb.firebaseio.com/"
-#define FIREBASE_AUTH "AIzaSyAHANIi3AEgVl8ir3Cs5ePn6qJLWD9LY1Y"
+#define REFERENCE_URL "https://smartdoorbell--------rtdb.firebaseio.com/"
+#define FIREBASE_AUTH "AIzaS---------------WD9LY1Y"
 
 // Firebase object
 Firebase firebase(REFERENCE_URL);
